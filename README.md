@@ -52,7 +52,7 @@ npm install
 ![WhatsApp Image 2024-07-23 at 11 16 45 PM](https://github.com/user-attachments/assets/e962d776-8009-48d1-b987-4b2b23e464fd)
 ![WhatsApp Image 2024-07-23 at 11 16 45 PM (1)](https://github.com/user-attachments/assets/f5887556-d12e-4c90-b161-e5a5c248d0d4)
 
-   ```env
+   ```env  Example :-
    FIREBASE_API_KEY=your-api-key
    FIREBASE_AUTH_DOMAIN=your-auth-domain
    FIREBASE_PROJECT_ID=your-project-id
@@ -114,9 +114,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or issues, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: channubhogade2222@gmail.com
+- **Linkdin**: (https://www.linkedin.com/in/rushikesh-bhogade)
 
----
 
-Feel free to customize the sections as needed, especially with your actual Firebase configuration and personal details.
+
