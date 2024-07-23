@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721006174222",
+    "project_id": "alarm-c152b",
+    "storage_bucket": "alarm-c152b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721006174222:android:a6ecd9d9bf53c35522dc5f",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJGY6HpQiPwpxONWJlyHqUrjuF-Mc0qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721006174222:android:a65c1bfa9789458922dc5f",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJGY6HpQiPwpxONWJlyHqUrjuF-Mc0qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

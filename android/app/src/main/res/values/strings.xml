@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AwesomeProject</string>
+    <string name="app_name">Market Maze</string>
+     <string name="default_web_client_id">723407935529-7bsr23tsk3t6o2fv688r5avolg5f2cbn.apps.googleusercontent.com</string>
 </resources>
