@@ -44,7 +44,14 @@ npm install
 ### Configure Firebase
 
 1. **Firebase Config**: Obtain your Firebase config from the Firebase Console.
-2. **Create a `.env` file** in the root directory and add your Firebase configuration:
+2. **Create a `.env` file** in the root directory and add your Firebase configuration:![WhatsApp Image 2024-07-23 at 11 16 19 PM](https://github.com/user-attachments/assets/163189b4-4591-44b0-8cbb-9fe198790859)
+![WhatsApp Image 2024-07-23 at 11 16 20 PM](https://github.com/user-attachments/assets/bc324176-c9f7-47ec-80bf-dba146fcb453)
+![WhatsApp Image 2024-07-23 at 11 16 20 PM (1)](https://github.com/user-attachments/assets/15b9f244-ced6-42ea-b124-2ccce06dc3ea)
+![WhatsApp Image 2024-07-23 at 11 16 20 PM (2)](https://github.com/user-attachments/assets/ec05d695-cfd4-4a82-86b0-fef836b833ea)
+![WhatsApp Image 2024-07-23 at 11 16 21 PM](https://github.com/user-attachments/assets/379bc2f5-6e83-4c25-baf8-f7dd7d9e502b)
+![WhatsApp Image 2024-07-23 at 11 16 45 PM](https://github.com/user-attachments/assets/e962d776-8009-48d1-b987-4b2b23e464fd)
+![WhatsApp Image 2024-07-23 at 11 16 45 PM (1)](https://github.com/user-attachments/assets/f5887556-d12e-4c90-b161-e5a5c248d0d4)
+
    ```env
    FIREBASE_API_KEY=your-api-key
    FIREBASE_AUTH_DOMAIN=your-auth-domain
@@ -87,7 +94,6 @@ MarketMaze/
 ├── screens/               # Different screens of the app
 ├── services/              # API and other services
 ├── App.js                 # Entry point of the app
-├── .env                   # Environment variables (not included in the repo)
 ├── package.json           # Project metadata and dependencies
 └── README.md              # This README file
 ```
